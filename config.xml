@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+  <!-- Example call: http://localhost:8020/Story?where=Scope.Name=%27Oldsmobile%27&sel=Name,ID&xsl=custom/flatnoblanks.xsl -->
+  <target-site>https://www6.v1host.com/============/rest-1.v1/Data</target-site>
+  <auth-token>Bearer 1.============================</auth-token>
+</conf>
